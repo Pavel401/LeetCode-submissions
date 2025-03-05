@@ -1,2 +1,3 @@
 # LeetCode-submissions
-Collection of LeetCode questions to ace the coding interview! -
+I just want to fuck leetcode.
+
