@@ -1,15 +1,12 @@
-class Solution
-{
-    public:
-        bool containsDuplicate(vector<int> &nums)
-        {
-            set<int> mySet;
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        return nums.size() > set<int>(nums.begin(), nums.end()).size();
+    }
 
-            for (int i = 0; i < nums.size(); i++)
-            {
-                mySet.insert(nums[i]);
-            }
+    ///So Basically set removes all the duplicate so suppose we start with [1,2,2,3,4,5]. set will be [1,2,3,4,5] 
 
-            return nums.size() > mySet.size() ? true : false;
-        }
+    //Now we just have to check if the original array have more than set 
+
+    // Each operation in set is O ( log n) , so for our case N of of computation == o ( n x log n) rest all o(1) 
 };
