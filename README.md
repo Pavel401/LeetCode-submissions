@@ -7,10 +7,12 @@ I just want to fuck leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pavel401/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pavel401/LeetCode-submissions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pavel401/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pavel401/LeetCode-submissions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
